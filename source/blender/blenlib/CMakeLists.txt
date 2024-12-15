@@ -139,7 +139,7 @@ set(SRC
   intern/smaa_textures.c
   intern/sort.c
   intern/sort_utils.c
-  intern/stack.c
+  intern/stack.cc
   intern/storage.cc
   intern/string.c
   intern/string_cursor_utf8.c
